@@ -2,9 +2,16 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 
 .jumbotron {
     max-width: 800px;
     margin: 0 auto;
+    background-color: white;
+}
+
+.dark {
+    background-color: black;
+    color: white;
 }
